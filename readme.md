@@ -1,5 +1,7 @@
 # Number Guessing Game
 
+This is a solution to https://roadmap.sh/projects/number-guessing-game
+
 A simple command-line number guessing game built with Node.js.
 
 ## How to Play
